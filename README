@@ -1,0 +1,7 @@
+Some simple programs to learn about Go (http://www.golang.org).
+
+- mv_ldown.go: Moves the latest download from ~/Downloads
+  into the current directory.
+
+- go.go: A single command to compile, link & run Go programs.
+  Useful (atleast for me!) when developing Go programs.
